@@ -1,0 +1,30 @@
+_repo: An-Illustrated-History-of-Ireland-from-AD-400-to-1800_14754
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cusack, Mary Frances
+    aliases:
+    - Cusack, Margaret Anna
+    - Cusack, M. F. (Mary Francis)
+    birthdate: 1829
+    deathdate: 1899
+    gutenberg_agent_id: '5667'
+    url: http://www.gutenberg.org/2009/agents/5667
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Frances_Cusack
+description: ''
+gutenberg_issued: '2005-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- History'
+title: An Illustrated History of Ireland from AD 400 to 1800
+url: http://www.gutenberg.org/ebooks/14754
